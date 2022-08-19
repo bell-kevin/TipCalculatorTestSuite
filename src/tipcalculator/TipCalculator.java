@@ -2,7 +2,7 @@ package tipcalculator;
 
 /******************************************************************************
 * TipCalculator.java 
-* Programmer: @author jcboyd
+* Programmer: @author jcboyd and Kevin Bell
 * Version: 1.0
 * Course: SDEV 2210
 * This program (which calculates the total cost of a meal with various tip 
